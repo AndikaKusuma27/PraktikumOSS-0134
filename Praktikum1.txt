@@ -1,3 +1,5 @@
 Nama : Andika Kusuma Risqi
 NIM  : G.231.20.0134
 Asal : Cilacap
+Mata Kuliah : Open Source System
+Catatan : Praktikum dengan menggunakan GIT
